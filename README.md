@@ -23,6 +23,7 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
         alt="Telefone" 
         title="Telefone" 
         src="https://custom-icon-badges.demolab.com/badge/-(61)9 9933 4508-FCAB2F?style=for-the-badge&logo=phone&logoColor=white"
+        style="pointer-events: none; cursor: default"
     />
 </p>
 
