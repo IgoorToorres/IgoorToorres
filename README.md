@@ -5,7 +5,7 @@
 Cursando o 7º semestre de Engenharia de Software na Universidade Católica de Brasília, com experiência em projetos acadêmicos voltados ao mercado de trabalho. Atuei durante 1 ano como Desenvolvedor Front-end em estágio, utilizando React, Node.js, Next.js e Docker, entre outras tecnologias. Busco crescimento profissional por meio de aprendizado contínuo, pronto para encarar qualquer desafio e aberto a aprender novas linguagens e tecnologias. 
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/igor-torres-368840340/">
+    <a href="https://www.linkedin.com/in/igor-torres-a96522298/">
         <img 
             alt="Linkedin" 
             title="Linkedin" 
