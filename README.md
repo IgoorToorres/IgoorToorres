@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Igor Torres 
+# 🧑‍💻 Igor Torres 
 
 **`Desenvolvedor front-end e Mobile`**
 
