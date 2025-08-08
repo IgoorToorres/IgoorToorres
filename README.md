@@ -33,31 +33,31 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
 
 <img 
     align="left" 
-    alt="Kotlin" 
-    title="Kotlin"
+    alt="React"
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
-    alt="Flutter" 
-    title="Flutter"
+    alt="TypeScript"
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="HTML"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
+    alt="CSS"
     title="CSS"
     width="30px" 
     style="padding-right: 10px;" 
@@ -65,23 +65,7 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
+    alt="Next.js"
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
@@ -89,7 +73,15 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
 />
 <img 
     align="left" 
-    alt="Git" 
+    alt="Firebase"
+    title="Firebase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git"
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
@@ -97,29 +89,37 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="GitHub"
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
-
 <img 
     align="left" 
-    alt="Docker" 
+    alt="Node.js"
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind CSS"
+    title="Tailwind CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker"
     title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+
 
 <br/>
 <br/>
@@ -127,13 +127,13 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
 ### 📊 Estatísticas
 
 <p>
-<!--   <img 
+  <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" P
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=IgoorToorres&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
-  /> -->
+  />
 
 <img 
       align="left" 
