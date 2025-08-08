@@ -95,6 +95,14 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+<img
+  align="left"
+  alt="Tailwind CSS"
+  title="Tailwind CSS"
+  width="30px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"
+/>
 <img 
     align="left" 
     alt="Node.js"
@@ -102,14 +110,6 @@ Cursando o 7º semestre de Engenharia de Software na Universidade Católica de B
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind CSS"
-    title="Tailwind CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg" 
 />
 <img 
     align="left" 
