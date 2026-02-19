@@ -2,7 +2,7 @@
 
 **`Desenvolvedor front-end e Mobile`**
 
-Cursando o 7º semestre de Engenharia de Software na Universidade Católica de Brasília, Busco crescimento profissional por meio de aprendizado contínuo, pronto para encarar qualquer desafio e aberto a aprender novas linguagens e tecnologias. 
+Formado em Engenharia de Software na Universidade Católica de Brasília, Busco crescimento profissional por meio de aprendizado contínuo, pronto para encarar qualquer desafio e aberto a aprender novas linguagens e tecnologias. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/igor-torres-a96522298/">
